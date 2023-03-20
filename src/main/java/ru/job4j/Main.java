@@ -6,6 +6,9 @@ public class Main {
         int age = 18;
         float length = 78.0332F;
         boolean baby = true;
+        int size = 10;
+        size = 100;
+        size = size - 5;
         System.out.println("Hello world");
     }
 }
